@@ -1,0 +1,5 @@
+{
+  "name": "Barbearia Imperial - Agendamento",
+  "description": "Um aplicativo web para clientes da Barbearia Imperial agendarem seus cortes de cabelo e barba, visualizarem o portfólio do barbeiro e gerenciarem seus horários.",
+  "requestFramePermissions": []
+}
